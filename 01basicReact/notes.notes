@@ -1,0 +1,12 @@
+!lecture 3
+
+
+npx create-reacr-app :
+1. react script is responsible for adding js src script into index.html
+2. component function name must start from capital letter (good practice to capatalize component file name too)
+3. works both with .js or .jsx
+
+npm create vite@latest:
+1. script is by default is linked to index.html
+2. component function name must start from capital letter(good practice to capatalize component file name too)
+3.!file name must be .tsx (.js doesn't work with vite)
